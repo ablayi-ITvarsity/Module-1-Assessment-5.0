@@ -1,0 +1,48 @@
+.gallery, h4{
+    color: blue;
+}
+
+.gallery, img{
+    width: 100%;
+}
+
+#menu{
+    width: 100%;
+    height: 40px;
+    background-color: cornflowerblue;
+    padding-top: 12px;
+}
+
+.gallery, h2{
+    font-family: impact, fantasy;
+    text-align: center;
+    font-size: 30px;
+    color: cornflowerblue;
+    font-style: italic;
+}
+
+.gallery, h4{
+    font-family: impact, fantasy;
+    font-size: 20px;
+    font-style: italic;
+    color: cornflowerblue;
+}
+
+.galleery, p{
+    font-style: italic;
+}
+
+#menu a{
+    color: white;
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 800;
+
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#menu a:hover{
+    color: #5077bd;
+}
